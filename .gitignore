@@ -1,0 +1,32 @@
+# Compiler files
+cache/
+out/
+temp
+
+# Ignores development broadcast logs
+!/broadcast
+/broadcast/*/31337/
+/broadcast/*/5/
+/broadcast/**/dry-run/
+
+# Dotenv file
+.env
+.idea/
+.vscode/
+
+# macos
+.DS_Store
+
+# forge
+broadcast/
+
+# ape
+.build/
+.pytest_cache/
+.cache
+
+*.csv
+
+node_modules/
+hardhat-cache/
+yarn-error.log

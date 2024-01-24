@@ -1,0 +1,7 @@
+forge-std/=lib/forge-std/src/
+openzeppelin-contracts-upgradeable/=lib/openzeppelin-contracts-upgradeable/contracts/
+openzeppelin-contracts/=lib/openzeppelin-contracts/contracts/
+ERC721A-Upgradeable/=lib/ERC721A-Upgradeable/contracts/
+ERC721A/=lib/ERC721A/contracts/
+operator-filter-registry/=lib/operator-filter-registry/src/
+nft-marketplace-contracts/=src/
