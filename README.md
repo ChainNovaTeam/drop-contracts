@@ -1,6 +1,5 @@
-# drop-contracts
+<img width="264" alt="chainnova" src="https://github.com/ChainNovaTeam/drop-contracts/assets/108317502/80dd82de-e154-4258-aa22-63f601f6a8e1">
 
-ChainNovaTeam's drop contracts.
 Introducing ChainNova  – the easiest way to launch your NFT collection in minutes, no coding skills required! It's 100% free. With ChainNova , creating an amazing project is a breeze, thanks to our NFT art generator.
 
 Our user-friendly platform allows you to effortlessly design the smart contract you need. In just a few minutes, set up all the details for your presale, public sale, and custom mint button! When you're ready, hit a button, and we'll generate your custom smart contract in seconds. From art generation to custom smart contracts and mint buttons, it's all covered – and it's all free.
