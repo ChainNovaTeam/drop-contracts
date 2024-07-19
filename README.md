@@ -19,3 +19,5 @@ $ forge test
 $ forge fmt
 ```
 
+## Depoly Details
+Scroll：https://mint.chainnova.io/ 
