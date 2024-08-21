@@ -22,6 +22,10 @@ $ forge fmt
 ## Depoly Details
 website：https://mint.chainnova.io/
 
-Morph:  
-        airdrop: https://explorer-holesky.morphl2.io/tx/0x9b99afb7762436a95ac279ea1c7d5e244dd5a8688c4ea4614f984ab05fecf8fa //
-        mint: https://explorer-holesky.morphl2.io/tx/0xd27bd59b0f335c98fda06478d8ea071ea02e7c568cc050b229bc434ee4f4c7d5
+### Morph Contracts
+```shell
+$ dropImplAddress: 0xB9A702E388305328cBb57c142493aDf4FDa7075c  
+$ tokenImplAddress: 0xc3B4f6482B3E2B42561BD32cd4169Ea1994862d3
+$ airdrop: https://explorer-holesky.morphl2.io/tx/0x9b99afb7762436a95ac279ea1c7d5e244dd5a8688c4ea4614f984ab05fecf8fa 
+$ mint: https://explorer-holesky.morphl2.io/tx/0xd27bd59b0f335c98fda06478d8ea071ea02e7c568cc050b229bc434ee4f4c7d5
+```
