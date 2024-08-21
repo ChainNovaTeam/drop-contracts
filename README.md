@@ -20,4 +20,6 @@ $ forge fmt
 ```
 
 ## Depoly Details
-Scroll：https://mint.chainnova.io/ 
+website：https://mint.chainnova.io/ 
+Morph:  airdrop: https://explorer-holesky.morphl2.io/tx/0x9b99afb7762436a95ac279ea1c7d5e244dd5a8688c4ea4614f984ab05fecf8fa
+        mint: https://explorer-holesky.morphl2.io/tx/0xd27bd59b0f335c98fda06478d8ea071ea02e7c568cc050b229bc434ee4f4c7d5
